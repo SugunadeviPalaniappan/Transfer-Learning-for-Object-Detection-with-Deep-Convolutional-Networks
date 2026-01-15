@@ -18,13 +18,18 @@ implementation results of own customized object detection model inside the box a
 - [Presentation Report (PDF)](docs/Transfer-Learning-for-object-detection-Project-Report.pdf)
 
 ## Screenshots
+
+![Result 1](experimental-images/labelling.png)
+![Result 2](experimental-images/object-detection-image1.png)
+![Result 3](experimental-images/object-detection-image2.png)
+
 <details>
 <summary>View Experimental Images</summary>
 
 <p>
   <img src="experimental-images/labelling.png" width="250"/>
   <img src="experimental-images/object-detection-image1.png" width="250"/>
-  <img src="experimental-images/object-detection-image2.png.png" width="250"/>
+  <img src="experimental-images/object-detection-image2.png" width="250"/>
 </p>
 
 </details>
