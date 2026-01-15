@@ -22,17 +22,17 @@ implementation results of own customized object detection model inside the box a
 
 <p align="center">
   <img src="experimental-images/labelling.png" width="450"/>
-  <b> Labelling </b>
+  <em> a. Object labelling </em>
 </p>
 
 <p align="center">
   <img src="experimental-images/object-detection-image1.png" width="450"/>
-  <b> Result 1</b>
+  <em> b. Experimental Result 1</em>
 </p>
 
 <p align="center">
   <img src="experimental-images/object-detection-image2.png" width="450"/>
-  <b> Result 2</b>
+   <em> b. Experimental Result 2</em>
 </p>
 
 
