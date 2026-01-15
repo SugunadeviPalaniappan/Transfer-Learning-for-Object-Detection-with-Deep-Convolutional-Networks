@@ -12,3 +12,10 @@ allows to adopt to new items. An overview on object detection with deep convolut
 networks (DCNNs) and an overview on transfer learning are also provided in this survey.
 Added to this, implementation results of existing object detection model are shown. Finally, the
 implementation results of own customized object detection model inside the box are depicted. 
+
+## 📄 Project Documents
+- 📘 [Project Report (PDF)](docs/docs/Transfer-Learning-for-object-detection-Project-Presentation.pdf)
+- 📊 [Presentation Slides (PDF)](docs/docs/Transfer-Learning-for-object-detection-Project-Report.pdf)
+
+## 🖼️ Screenshots
+👉 [View full screenshots gallery]([https://user-images.githubusercontent.com/xxxx/gallery](https://github.com/SugunadeviPalaniappan/Transfer-Learning-for-Object-Detection-with-Deep-Convolutional-Networks/tree/main/experimental-images))
