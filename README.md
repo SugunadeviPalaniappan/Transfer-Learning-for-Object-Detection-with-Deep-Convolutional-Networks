@@ -20,17 +20,17 @@ implementation results of own customized object detection model inside the box a
 ## Experimental Results
 
 <p align="center">
-  <img src="experimental-images/image1.png" width="300"/><br>
+  <img src="experimental-images/labelling.png" width="450"/>><br>
   <span>Experiment 1: Object Detection on Dataset A</span>
 </p>
 
 <p align="center">
-  <img src="experimental-images/image2.png" width="300"/><br>
+  <img src="experimental-images/object-detection-image1.png" width="450"/><br>
   <span>Experiment 2: Transfer Learning with Pretrained Model</span>
 </p>
 
 <p align="center">
-  <img src="experimental-images/image3.png" width="300"/><br>
+  <img src="experimental-images/object-detection-image2.png" width="450"/><br>
   <span>Experiment 3: Fine-tuning with Augmented Data</span>
 </p>
 
