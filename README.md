@@ -14,8 +14,17 @@ Added to this, implementation results of existing object detection model are sho
 implementation results of own customized object detection model inside the box are depicted. 
 
 ##  Project Documents
-- [Project Report (PDF)](docs/Transfer-Learning-for-object-detection-Project-Presentation.pdf)
-- [Presentation Slides (PDF)](docs/Transfer-Learning-for-object-detection-Project-Report.pdf)
+- [Project Slides (PDF)](docs/Transfer-Learning-for-object-detection-Project-Presentation.pdf)
+- [Presentation Report (PDF)](docs/Transfer-Learning-for-object-detection-Project-Report.pdf)
 
 ## Screenshots
-[View full screenshots gallery]([https://github.com/SugunadeviPalaniappan/Transfer-Learning-for-Object-Detection-with-Deep-Convolutional-Networks/tree/main/experimental-images]
+<details>
+<summary>View Experimental Images</summary>
+
+<p>
+  <img src="experimental-images/labelling.png" width="250"/>
+  <img src="experimental-images/object-detection-image1.png" width="250"/>
+  <img src="experimental-images/object-detection-image2.png.png" width="250"/>
+</p>
+
+</details>
