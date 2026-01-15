@@ -19,7 +19,7 @@ implementation results of own customized object detection model inside the box a
 
 ## Experimental Results
 
-<p align="center" style="margin-bottom:70px;">
+<p align="center" style="margin-bottom:100px;">
   <img src="experimental-images/labelling.png" width="450"/>><br>
   <span>Experiment 1: Object Detection on Dataset A</span>
 </p>
