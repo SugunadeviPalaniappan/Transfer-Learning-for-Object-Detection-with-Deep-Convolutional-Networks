@@ -19,16 +19,13 @@ implementation results of own customized object detection model inside the box a
 
 ## Screenshots
 
-![Result 1](experimental-images/labelling.png)
-![Result 2](experimental-images/object-detection-image1.png)
-![Result 3](experimental-images/object-detection-image2.png)
 
 
 
 <p align="center">
-  <img src="experimental-images/labelling.png" width="250"/>
-  <img src="experimental-images/object-detection-image1.png" width="250"/>
-  <img src="experimental-images/object-detection-image2.png" width="250"/>
+  <img src="experimental-images/labelling.png" width="350"/>
+  <img src="experimental-images/object-detection-image1.png" width="350"/>
+  <img src="experimental-images/object-detection-image2.png" width="350"/>
 </p>
 
 </details>
